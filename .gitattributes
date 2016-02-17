@@ -1,0 +1,20 @@
+# All files- Output-LF Only, Input-Same as Repo
+* crlf=input
+*.mp3 binary
+*.swf binary
+*.wav binary
+*.bmp binary
+*.pdf binary
+*.flv binary
+*.gif binary
+*.ico binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.eot binary
+*.ttf binary
+*.woff binary
+*.mov binary
+*.mp4 binary
+*.avi binary
+*.wmv binary
