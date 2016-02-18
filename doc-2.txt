@@ -3,4 +3,4 @@ DOCUMENT 2
 Line One - CHANGE XXX 
 Line Two 
 Line Three
-Line four
+Line four - CHANGE FOR NOT STAGED TEST
