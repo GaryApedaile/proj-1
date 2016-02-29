@@ -1,4 +1,4 @@
 Line One - ADDING TO LINE ONE
 Line Two - EDIT LINE 2
-Line Three - LINE THREE EDIT LOCAL
+Line Three - LINE THREE EDIT LOCAL WINS
 Line Five
