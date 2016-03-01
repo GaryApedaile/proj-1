@@ -1,7 +1,2 @@
 Line One - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Line Two - CHANGED
-Line Three - CHANGE 2016-02-29 11.45 AM
-Line four - adding line four
-Line Six - adding line six
-BRANCH EDIT ADDED AT REMOTE
-Line Seven - LINE ADDED IN tbranch
+TBRANCH ONE VERSION REMOTE
